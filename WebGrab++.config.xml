@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<settings>
+   
+   
+  <filename>guide.xml</filename>
+  <mode>nomark</mode>
+  <postprocess grab="y" run="n">rex</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 Edg/79.0.309.71</user-agent>
+  <!--<decryptkey site="site-name">decrypt_userkey</decryptkey>-->
+  <!--<license wg-username="your webgrab+plus username" registered-email="your registered email address" password="your license password" />-->
+  <logging>on</logging>
+  <retry time-out="5">4</retry>
+  <timespan>2</timespan>
+  <update>f</update>
+ 
+  
+  <channel site="startvmexico.com" site_id="3129_1079" update="i" xmltv_id="Las Estrellas">Las Estrellas</channel>
+  <channel site="startvmexico.com" site_id="3129_1134" update="i" xmltv_id="Azteca Uno">Azteca Uno</channel>
+  <channel site="startvmexico.com" site_id="3129_4260" update="i" xmltv_id="A+">A+</channel>
+  <channel site="startvmexico.com" site_id="3129_1081" update="i" xmltv_id="Canal 5">Canal 5</channel>
+  <channel site="startvmexico.com" site_id="3129_2253" update="i" xmltv_id="Imagen TV">Imagen TV</channel>
+  <channel site="startvmexico.com" site_id="3129_1091" update="i" xmltv_id="Azteca 7">Azteca 7</channel>
+  <!-- canal 6 -->
+  <channel site="startvmexico.com" site_id="3129_1047" update="i" xmltv_id="Nu9ve">Nu9ve</channel>
+  <channel site="entutele.com" site_id="/canal/television-mexiquense/" update="i" xmltv_id="Mexiquense">Mexiquense</channel>
+  <channel site="startvmexico.com" site_id="3129_1088" update="i" xmltv_id="Canal Once">Canal Once</channel>
+  <channel site="entutele.com" site_id="/canal/unicable/" update="i" xmltv_id="Unicable">Unicable</channel>
+  <channel site="entutele.com" site_id="/canal/tlnovelas/" update="i" xmltv_id="TI Novelas">TI Novelas</channel>
+  <channel site="startvmexico.com" site_id="3129_1152" update="i" xmltv_id="Telemundo">Telemundo</channel>
+  <channel site="entutele.com" site_id="/canal/e-entertainment-television/" update="i" xmltv_id="E!">E!</channel>
+  <channel site="startvmexico.com" site_id="3129_2879" update="i" xmltv_id="Lifetime">Lifetime</channel>
+  <channel site="entutele.com" site_id="/canal/ae/" update="i" xmltv_id="A&amp;E">A&amp;E</channel>
+  <channel site="startvmexico.com" site_id="3129_703" update="i" xmltv_id="Distrito Comedia">Distrito Comedia</channel>
+  <channel site="startvmexico.com" site_id="3129_4217" update="i" xmltv_id="Comedy Central">Comedy Central</channel>
+  <channel site="startvmexico.com" site_id="3129_3282" update="i" xmltv_id="ADN 40">ADN 40</channel>
+  <channel site="entutele.com" site_id="/canal/teleformula/" update="i" xmltv_id="Teleformula">Teleformula</channel>
+  <channel site="entutele.com" site_id="/canal/foro-tv/" update="i" xmltv_id="Foro TV">Foro TV</channel>
+  <channel site="entutele.com" site_id="/canal/milenio-tv/" update="i" xmltv_id="Milenio">Milenio</channel>
+  <channel site="startvmexico.com" site_id="3129_441" update="i" xmltv_id="CNN En Español">CNN En Español</channel>
+  <channel site="startvmexico.com" site_id="3129_444" update="i" xmltv_id="HISTORY">HISTORY</channel>
+  <channel site="entutele.com" site_id="/canal/discovery-channel/" update="i" xmltv_id="Discovery Channel">Discovery Channel</channel>
+  <channel site="entutele.com" site_id="/canal/discovery-world-hd/" update="i" xmltv_id="Discovery World">Discovery World</channel>
+  <channel site="entutele.com" site_id="/canal/discovery-turbo/" update="i" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+  <!-- Discovery ID-->
+  <!-- canal H&H -->
+  <channel site="entutele.com" site_id="/canal/animal-planet/" update="i" xmltv_id="Animal Planet">Animal Planet</channel>
+  <channel site="startvmexico.com" site_id="3129_472" update="i" xmltv_id="NatGeo">NatGeo</channel>
+  <channel site="startvmexico.com" site_id="3129_1185" update="i" xmltv_id="Natgeo Wild">Natgeo Wild</channel>
+  <channel site="startvmexico.com" site_id="3129_137" update="i" xmltv_id="De Pelicula">De Pelicula</channel>
+  <channel site="startvmexico.com" site_id="3129_242" update="i" xmltv_id="CineCanal">CineCanal</channel>
+  <channel site="startvmexico.com" site_id="3129_474" update="i" xmltv_id="Golden">Golden</channel>
+  <channel site="startvmexico.com" site_id="3129_1133" update="i" xmltv_id="Warner Channel">Warner Channel</channel>
+  <channel site="startvmexico.com" site_id="3129_447" update="i" xmltv_id="Sony">Sony</channel>
+  <channel site="startvmexico.com" site_id="3129_4249" update="i" xmltv_id="Paramount">Paramount</channel>
+  <channel site="startvmexico.com" site_id="3129_442" update="i" xmltv_id="TNT">TNT</channel>
+  <channel site="entutele.com" site_id="/canal/tnt-series/" update="i" xmltv_id="TNT Series">TNT Series</channel>
+  <channel site="startvmexico.com" site_id="3129_1122" update="i" xmltv_id="AXN">AXN</channel>
+  <channel site="entutele.com" site_id="/canal/amc/" update="i" xmltv_id="AMC">AMC</channel>
+  <channel site="startvmexico.com" site_id="3129_1576" update="i" xmltv_id="Cinemax">Cinemax</channel>
+  <channel site="startvmexico.com" site_id="3129_1370" update="i" xmltv_id="Space">Space</channel>
+  <channel site="startvmexico.com" site_id="3129_516" update="i" xmltv_id="Studio Universal">Studio Universal</channel>
+  <channel site="startvmexico.com" site_id="3129_449" update="i" xmltv_id="Universal Channel">Universal Channel</channel>
+  <channel site="startvmexico.com" site_id="3129_498" update="i" xmltv_id="FX">FX</channel>
+  <!-- FXM -->
+  <channel site="startvmexico.com" site_id="3129_1114" update="i" xmltv_id="SyFy">SyFy</channel>
+  <channel site="startvmexico.com" site_id="3129_1212" update="i" xmltv_id="FOX">FOX</channel>
+  <channel site="startvmexico.com" site_id="3129_512" update="i" xmltv_id="FOX Life">FOX Life</channel>
+  <channel site="startvmexico.com" site_id="3129_583" update="i" xmltv_id="FOX Action">FOX Action</channel>
+  <channel site="startvmexico.com" site_id="3129_83" update="i" xmltv_id="FOX Series">FOX Series</channel>
+  <channel site="entutele.com" site_id="/canal/fox-cinema/" update="i" xmltv_id="FOX Cinema">FOX Cinema</channel>
+  <channel site="entutele.com" site_id="/canal/fox-classics/" update="i" xmltv_id="FOX Classics">FOX Classics</channel>
+  <channel site="startvmexico.com" site_id="3129_589" update="i" xmltv_id="FOX Movies">FOX Movies</channel>
+  <channel site="startvmexico.com" site_id="3129_874" update="i" xmltv_id="Disney Channel">Disney Channel</channel>
+  <channel site="startvmexico.com" site_id="3129_817" update="i" xmltv_id="Disney Junior">Disney Junior</channel>
+  <channel site="entutele.com" site_id="/canal/discovery-kids/" update="i" xmltv_id="Discovery Kids">Discovery Kids</channel>
+  <channel site="startvmexico.com" site_id="3129_422" update="i" xmltv_id="Boomerang">Boomerang</channel>
+  <channel site="startvmexico.com" site_id="3129_402" update="i" xmltv_id="Cartoon Network">Cartoon Network</channel>
+  <channel site="startvmexico.com" site_id="3129_1014" update="i" xmltv_id="Disney XD">Disney XD</channel>
+  <channel site="startvmexico.com" site_id="3129_297" update="i" xmltv_id="NICK">NICK</channel>
+  <!-- Teen Nick -->
+  <!-- Nick Music -->
+  <channel site="entutele.com" site_id="/canal/tooncast/" update="i" xmltv_id="Tooncast">Tooncast</channel>
+  <!-- BitME -->
+  <channel site="startvmexico.com" site_id="3129_502" update="i" xmltv_id="Bandamax">Bandamax</channel>
+  <channel site="startvmexico.com" site_id="3129_1564" update="i" xmltv_id="Telehit">Telehit</channel>
+  <!-- Telehit Urbano -->
+  <channel site="startvmexico.com" site_id="3129_296" update="i" xmltv_id="MTV">MTV</channel>
+  <!-- MTV HITS -->
+  <channel site="entutele.com" site_id="/canal/vh1/" update="i" xmltv_id="VH1">VH1</channel>
+  <channel site="startvmexico.com" site_id="3129_1150" update="i" xmltv_id="ESPN">ESPN</channel>
+  <channel site="startvmexico.com" site_id="3129_1149" update="i" xmltv_id="ESPN 2">ESPN 2</channel>
+  <channel site="startvmexico.com" site_id="3129_2336" update="i" xmltv_id="ESPN 3">ESPN 3</channel>
+  <channel site="entutele.com" site_id="/canal/fox-sports/" update="i" xmltv_id="FOX Sports">FOX Sports</channel>
+  <channel site="entutele.com" site_id="/canal/fox-sports-2/" update="i" xmltv_id="FOX Sports 2">FOX Sports 2</channel>
+  <channel site="entutele.com" site_id="/canal/fox-sports-3/" update="i" xmltv_id="FOX Sports 3">FOX Sports 3</channel>
+  <channel site="startvmexico.com" site_id="3129_947" update="i" xmltv_id="TUDN">TUDN</channel>
+  <channel site="startvmexico.com" site_id="3129_5300" update="i" xmltv_id="Claro Sports">Claro Sports</channel>
+
+
+ 
+</settings>
